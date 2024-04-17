@@ -11,6 +11,24 @@
 <br>
 <h3>Código Fuente</h3>
 <p>El código fuente se encuentra en el archivo votacion.js. Este archivo contiene la definición de la clase Votacion y sus métodos para inicializar los resultados, crear los botones de votación, registrar los votos y gestionar la lógica de la votación.</p>
+<img src="">
+<p></p>
+<br>
+<img src="">
+<p></p>
+<br>
+<img src="">
+<p></p>
+<br>
+<img src="">
+<p></p>
+<br>
+<img src="">
+<p></p>
+<br>
+<img src="">
+<p></p>
+<br>
 <br>
 <h3>Uso</h3>
 <p>Para utilizar el sistema de votación, simplemente abre el archivo HTML en un navegador web. Se mostrarán los botones de votación para cada candidato y podrás votar haciendo clic en ellos.</p>
