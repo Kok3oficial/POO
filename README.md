@@ -29,10 +29,6 @@
 <img src="images/6 crear insntancia de votación.jpg">
 <p>Se crea la instancia de votación.</p>
 <br>
-<img src="">
-<p></p>
-<br>
-<br>
 <h3>Uso</h3>
 <p>Para utilizar el sistema de votación, simplemente abre el archivo HTML en un navegador web. Se mostrarán los botones de votación para cada candidato y podrás votar haciendo clic en ellos.</p>
 <br>
